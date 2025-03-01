@@ -1,0 +1,19 @@
+{
+  "name": "js-fullstack",
+  "version": "1.0.0",
+  "description": "Learing JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivvanya/JS-Fullstack.git"
+  },
+  "author": "Ivan Avdyukov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivvanya/JS-Fullstack/issues"
+  },
+  "homepage": "https://github.com/ivvanya/JS-Fullstack#readme"
+}
