@@ -1,7 +1,7 @@
 {
   "name": "js-fullstack",
   "version": "1.0.0",
-  "description": "Learing JavaScript",
+  "description": "Learning JavaScript",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
