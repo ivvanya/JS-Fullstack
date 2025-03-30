@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ivvanya/JS-Fullstack/issues"
   },
-  "homepage": "https://github.com/ivvanya/JS-Fullstack#readme"
+  "homepage": "https://github.com/ivvanya/JS-Fullstack#readme",
+  "dependencies": {
+    "sass": "^1.86.0"
+  }
 }
